@@ -8,7 +8,7 @@
   Stock prediction in Python involves analyzing historical stock data to forecast future prices. Key techniques include machine learning models like ARIMA, LSTM, and random forests, along with technical indicators and sentiment analysis, helping traders make informed decisions.
   
 </p>
-<img src = "09.11.2024_00.19.42_REC.png">
+<img src = "WhatsApp Image 2024-11-22 at 12.39.27 PM.jpeg">
 <p>
   Stock prediction in Python involves using data-driven techniques to forecast future stock prices or trends. Key methods include statistical approaches, machine learning (ML), and deep learning. The process typically begins with data collection, where historical stock prices and relevant financial indicators are gathered from sources like Yahoo Finance or Alpha Vantage.
 
